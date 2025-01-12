@@ -6,6 +6,8 @@ Currently, two official plugins are available:
 
 library install : 
 
+- npm install
+
 - npm install react-router-dom
 
 - npm install axios
