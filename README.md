@@ -5,7 +5,11 @@ This template provides a minimal setup to get React working in Vite with HMR and
 Currently, two official plugins are available:
 
 library install : 
-npm install react-router-dom
-npm install axios
-npm install -D tailwindcss postcss autoprefixer
-npm install sweetalert2
+
+- npm install react-router-dom
+
+- npm install axios
+
+- npm install -D tailwindcss postcss autoprefixer
+
+- npm install sweetalert2
